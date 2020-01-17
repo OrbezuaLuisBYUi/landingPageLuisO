@@ -1,0 +1,17 @@
+
+.widthPage{
+    width: 90%;
+    margin: 50px;
+
+
+}
+
+.sizePicture{
+    width: 100px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.colorInfo{
+    background-color: lightcyan;
+}
