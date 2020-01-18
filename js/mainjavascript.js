@@ -1,3 +1,6 @@
-/**
- * Created by jloin on 1/14/2020.
- */
+
+
+function goToTopics(){
+    window.open("topics.php", '_blank');
+}
+
